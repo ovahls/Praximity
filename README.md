@@ -85,7 +85,8 @@ Run on iOS
 cd ios
 pod install
 cd ..
-yarn ios```
+yarn ios
+```
 
 
 ---
