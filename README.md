@@ -72,7 +72,7 @@ Built for autodidacts, researchers, and learning cohorts, it fuses AI-assisted s
 ### Install
 
 ```bash
-git clone https://github.com/your-org/praximity.git
+git clone https://github.com/praxim/praximity.git
 cd praximity
 yarn install
 
